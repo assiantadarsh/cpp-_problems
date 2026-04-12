@@ -12,7 +12,7 @@ int main(){
     
     for(int i = 0;str[i] !='\0';i++){
         int x = 0;
-        for(int j = 0;j<k;j++){
+        for(int j = 0;j<i;j++){
             if(str[i] == str[j]){
                 x = 1;
                 break;
