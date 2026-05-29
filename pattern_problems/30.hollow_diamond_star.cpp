@@ -1,6 +1,16 @@
 #include <iostream>
 using namespace std;
 
+//     *
+//    * *
+//   *   *
+//  *     *
+// *       *
+//  *     *
+//   *   *
+//    * *
+//     *
+// Print the given pattern ?
 int main() {
     int n;
     cout << "Enter the positive value of n: ";
